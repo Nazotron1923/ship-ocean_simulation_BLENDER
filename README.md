@@ -73,6 +73,17 @@ Here you have all the parameters that the macro is goingo to import. You can sel
 ## macro.py
 This is the macro. Theorically you will not need to change anything from here but there are some explanations inside about what the code does and I encourage you to improve the code and add more functions.
 
+# Data
+
+Render 2 frames per second. This is the best option so that the differences between two frames are noticeable and they do not "duplicate" the information.
+
+Generated data
+
+<p align="center">
+  <img width="600" src="render/data/gen_img.jpg">
+</p>
+<p align="justify">
+
 # Contact:
 
 Manuel Cortés Batet batetcortesm@gmail.com
